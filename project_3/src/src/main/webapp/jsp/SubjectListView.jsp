@@ -54,7 +54,7 @@ body{
 			%>
 			<center>
 						<h1 class="text-primary font-weight-bold pt-3">Subject
-							List11</h1>
+							List</h1>
 					</center>
 					</br>
 
